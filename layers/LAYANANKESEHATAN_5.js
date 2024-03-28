@@ -1,0 +1,1 @@
+var json_LAYANANKESEHATAN_5 = {"type":"FeatureCollection","name":"LAYANANKESEHATAN_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","NO":"1","LOKASI":"RS TNI AL","FOTO":null},"geometry":{"type":"Point","coordinates":[106.812656715754031,-6.208159843238456]}}]}
